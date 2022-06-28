@@ -46,9 +46,7 @@
 
 2,3 번을 보자.
 
-
 아니 시팔 javascript 공부는 어케함
-
 
 1. MDN (자세히 적혀있음... = > 난이도가 높아.)
 2. javascript info
@@ -56,7 +54,6 @@
 
 변수 만드는 형식      변수이름           값
 let                         sum              = 0;
-
 
 const, let =>  
 
