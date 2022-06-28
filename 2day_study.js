@@ -92,3 +92,5 @@ const hello2 = function (name, age) {
 console.log(typeof arr); // Array의 경우 타입이 object임.
 console.log(typeof hello);
 console.log(typeof s);
+
+
